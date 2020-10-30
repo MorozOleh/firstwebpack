@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/morozoleh/firstwebpack/issues"
   },
-  "homepage": "https://github.com/morozoleh/firstwebpack",
+  "homepage": "https://morozoleh.github.io/firstwebpack",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
